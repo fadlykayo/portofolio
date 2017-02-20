@@ -1,2 +1,2 @@
 # portofolio
-My Portofolio as a Full Stack Web Developer
+My portofolio as a Full Stack Web Developer
