@@ -2,6 +2,39 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+.a {
+  color: #e6ee9c;
+  margin-right: 20px;
 }
+
+.a:hover {
+  background-color: #827717;
+}
+
+.nav-extended {
+  background-color: black;
+  z-index: 10;
+}
+
+.container {
+  margin: 0px 100px;
+}
+
+/*.navbar {
+  padding: 18px 100px;
+  background-color: #0091ea;
+  height: 100px;
+  border: #bbdefb 1.5px solid;
+}*/
+
+/*
+
+#footer {
+  bottom: 0px;
+  background-color: black;
+}
+
+#dropdown1 {
+  background-color: black;
+  color: #e6ee9c;
+}*/
