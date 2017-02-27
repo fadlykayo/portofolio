@@ -1,5 +1,6 @@
 $(document).ready(function () {
   $('ul.tabs').tabs()
+  $('.button-collapse').sideNav()
 })
 
 var app = new Vue({
